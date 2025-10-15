@@ -46,6 +46,14 @@ The dataset contains transactional-level details of online retail sales, includi
 
 ---
 
+![Image Alt](https://github.com/zaher-insights/E-Commerce-Sales-Performance/blob/main/Total%20Sales%20by%20Country.png?raw=true)
+
+![Image Alt](https://github.com/zaher-insights/E-Commerce-Sales-Performance/blob/main/Monthly%20Sales%20Tread.png?raw=true)
+
+![Image Alt](https://github.com/zaher-insights/E-Commerce-Sales-Performance/blob/main/Average%20Order%20Value%20by%20Country.png?raw=true)
+
+---
+
 ## 🧠 3. Executive Summary  
 
 The analysis revealed that revenue is primarily driven by the **UK market**, with noticeable seasonal peaks in **December** due to holiday sales.  
@@ -101,10 +109,10 @@ However, a significant number of customers appear to purchase only once — indi
 | **GitHub** | Portfolio documentation |
 
 📂 **Files in this Project**  
-- `Ecommerce_Cleaned.xlsx` – Cleaned dataset  
+- `Ecommerce_Cleaned.xlsx` – [Cleaned dataset] (https://www.kaggle.com/datasets/vijayuv/onlineretail/data) 
 - `Ecommerce_Queries.sql` – SQL queries for analysis  
-- `Ecommerce_Dashboard.twbx` – Tableau dashboard  
-- `README.md` – Project documentation  
+- `Ecommerce_Dashboard.twbx` – [Tableau dashboard](https://public.tableau.com/app/profile/zaher.ahmed/viz/OnlineRetail_17604660812430/Dashboard2)  
+
 
 ---
 
