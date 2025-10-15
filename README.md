@@ -56,7 +56,7 @@ The dataset contains transactional-level details of online retail sales, includi
 
 ## 🧠 3. Executive Summary  
 
-The analysis revealed that revenue is primarily driven by the **UK market**, with noticeable seasonal peaks in **December** due to holiday sales.  
+The analysis revealed that revenue is primarily driven by the **UK market** with about **80%**, with noticeable seasonal peaks in **December** due to holiday sales.  
 
 While the **Top 10 products** generate consistent revenue, they make up only about **10% of total sales**, showing that performance is **evenly distributed** across a wide catalog.  
 
@@ -109,7 +109,7 @@ However, a significant number of customers appear to purchase only once — indi
 | **GitHub** | Portfolio documentation |
 
 📂 **Files in this Project**  
-- `Ecommerce_Cleaned.xlsx` – [Cleaned dataset] (https://www.kaggle.com/datasets/vijayuv/onlineretail/data) 
+- `Ecommerce_Cleaned.xlsx` – Dateset (https://www.kaggle.com/datasets/vijayuv/onlineretail/data) 
 - `Ecommerce_Queries.sql` – SQL queries for analysis  
 - `Ecommerce_Dashboard.twbx` – [Tableau dashboard](https://public.tableau.com/app/profile/zaher.ahmed/viz/OnlineRetail_17604660812430/Dashboard2)  
 
